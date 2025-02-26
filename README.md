@@ -27,7 +27,7 @@ Controls:
 Contents:
 ---
 - [KiCad 8.0 project ](https://github.com/MPrzekop/FV1-Craft-Store/tree/main/Hardware/KiCad)
-  - 2 effect board and optional footswitch doughterboard
+  - 2 effect boards and optional footswitch doughterboard
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a25c43ae-9472-415c-ba8d-81efec8f6b78" height="200" title="pcb 3d render">
 <img src="https://github.com/user-attachments/assets/a9b1d560-3679-4868-93fa-665ad1c78dac" height="200" title="schematic layout">
